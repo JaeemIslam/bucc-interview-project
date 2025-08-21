@@ -10,10 +10,9 @@ It's a basic Calculator App built only using Java. This calculator can do summat
 5. And lastly through using multiple loops, logical expressions and methods the buttons were assigned thoroughly with there functions.
 
 # Steps to run:
-1. Follow this path: bucc-interview-project ➔ Calculator ➔ src
-2. Download both calculator.java and App.java file in a single forder.
-3. Open the folder in a Java compiler (VS Code , IntelliJ IDEA).
-4. Click open both calculator.java and App.java files and select "run java" from run options for calculator.java and select App.java as main class.
+1. Download both calculator.java and App.java file in a single forder.
+2. Open the folder in a Java compiler (VS Code , IntelliJ IDEA).
+3. Click open both calculator.java and App.java files and select "run java" from run options for calculator.java and select App.java as main class.
 
 This will compile and run the calculator.
 
