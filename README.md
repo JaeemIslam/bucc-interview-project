@@ -1,4 +1,4 @@
-It is a basic Calculator App built only using Java. This calculator can do summation, substraction, multiplication and divition operation between two rational numbers. Other than these, it can also perform negation, square root and percentage calculation on any rational number. And lastly it has a "All Clear" button which refreshes the display. 
+It's a basic Calculator App built only using Java. This calculator can do summation, substraction, multiplication and divition operation between two rational numbers. Other than these, it can also perform negation, square root and percentage calculation on any rational number. And lastly it has a "All Clear" button which refreshes the display. 
 
 # Language Used: Java
 
@@ -11,5 +11,10 @@ It is a basic Calculator App built only using Java. This calculator can do summa
 
 # Steps to run:
 1. Follow this path: bucc-interview-project ➔ Calculator ➔ src
-2. Download both calculator.java and App.java file.
-3. 
+2. Download all the files in src folder and store them in a single folder.
+3. Open the newly created folder in Java compiler (VS Code , IntelliJ IDEA).
+4. Click open and run the calculator.java file and select App.java as main class.
+This will compile and run the calculator.
+
+# Unsolved Bug:
+The calculator cannot perform continuous algebraic operations without pressing the "=" button.
