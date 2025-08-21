@@ -11,9 +11,9 @@ It's a basic Calculator App built only using Java. This calculator can do summat
 
 # Steps to run:
 1. Follow this path: bucc-interview-project ➔ Calculator ➔ src
-2. Download all the files in src folder and store them in a single folder.
+2. Download calculator.java and App.java file from the src folder and store them in a single folder.
 3. Open the newly created folder in Java compiler (VS Code , IntelliJ IDEA).
-4. Click open and run the calculator.java file and select App.java as main class.
+4. Click open both files and select "run java" from run options for calculator.java and select App.java as main class.
 This will compile and run the calculator.
 
 # Unsolved Bug:
