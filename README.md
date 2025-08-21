@@ -10,4 +10,6 @@ It is a basic Calculator App built only using Java. This calculator can do summa
 5. And lastly through using multiple loops, logical expressions and methods the buttons were assigned thoroughly with there functions.
 
 # Steps to run:
-1. 
+1. Follow this path: bucc-interview-project ➔ Calculator ➔ src
+2. Download both calculator.java and App.java file.
+3. 
